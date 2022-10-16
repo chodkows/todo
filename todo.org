@@ -12,5 +12,9 @@
 *** [ ]
 ** Terraform [0/1]
 *** [ ]
-* Personal [0/1]
+* Personal [0/5]
 ** [ ] Multisport
+** [ ] Kupic okulary do plywania
+** [ ] Sprawdzic przepis na golabki
+** [ ] Sprawdzic skladniki na marynowany imbir
+** [ ]
