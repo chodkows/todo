@@ -1,1 +1,16 @@
 #+title: Todo
+#+AUTHOR: chodkows
+
+* Certification Toto list
+** Az700 [0/3]
+*** [ ] DNS
+*** [ ] Virtual Network
+*** [ ] IP
+** Az104 [ 0/1 ]
+*** [ ]
+** Linux cert [0/1]
+*** [ ]
+** Terraform [0/1]
+*** [ ]
+* Personal [0/1]
+** [ ] Multisport
