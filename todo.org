@@ -12,9 +12,20 @@
 *** [ ]
 ** Terraform [0/1]
 *** [ ]
-* Personal [0/5]
+* Personal [1/4]
 ** [ ] Multisport
 ** [ ] Kupic okulary do plywania
 ** [ ] Sprawdzic przepis na golabki
-** [ ] Sprawdzic skladniki na marynowany imbir
-** [ ]
+** [X] Sprawdzic skladniki na marynowany imbir
+
+    Imbir korzeń 250 g
+    Ocet ryżowy 250 ml 1 szklanka
+    Cukier 40 g 4 płaskie łyżki stołowe
+
+    Imbir obierz ze skórki przy pomocy łyżeczki.
+    Oczyszczony imbir pokrój w cienkie plasterki.
+    Pokrojony imbir wrzucić do wrzącej wody i gotuj przez minutę.
+    Następnie w drugim garnku zagotuj ocet ryżowy z dodatkiem cukru oraz odrobiny soli.
+    Plastry imbiru umieść w wyparzonym słoiczku i zalej gorącą zalewą.
+    Słoiki zakręć i przechowuj w lodówce.
+    Imbir marynowany jest dobry do spożycia po około 4 dniac
